@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+*.pdf
+*.log
+*.aux
+*.out
+*.db
+*.db-journal
+.DS_Store
