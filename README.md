@@ -1,6 +1,9 @@
-# ResumeForge AI
+# ResumeForge - AI-Powered Resume Builder
 
-ResumeForge AI is an advanced, AI-powered LaTeX resume builder and analyzer. It allows users to write their resumes in LaTeX with real-time live preview, get AI feedback and scoring on their resume, and automatically tailor their resume to a specific job description.
+🚀 **Live Demo**: [https://frontend-psi-green-80.vercel.app](https://frontend-psi-green-80.vercel.app)
+⚙️ **Backend API**: [https://resume-forge-backend-h92i.onrender.com](https://resume-forge-backend-h92i.onrender.com)
+
+A modern, full-stack application that helps users create professional resumes using LaTeX and AI (Google Gemini). It allows users to write their resumes in LaTeX with real-time live preview, get AI feedback and scoring on their resume, and automatically tailor their resume to a specific job description.
 
 ## Features
 
