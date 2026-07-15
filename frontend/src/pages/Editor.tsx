@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import MonacoEditor from '@monaco-editor/react';
 import { useAuth } from '../context/AuthContext';
 import { useNavigate } from 'react-router-dom';
