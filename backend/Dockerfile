@@ -22,14 +22,11 @@ RUN npm install
 # Copy application source code
 COPY . .
 
-# Generate Prisma client (assuming schema exists)
-# RUN npx prisma generate
-
-# Build the TypeScript code (if we were serving production)
-# RUN npm run build
+# Generate Prisma client and build the TypeScript code
+RUN npm run build
 
 # Expose backend port
 EXPOSE 3001
 
-# Start the dev server
-CMD ["npm", "run", "dev"]
+# Start the production server
+CMD ["npm", "start"]
